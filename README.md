@@ -11,3 +11,4 @@ just put the namd theme folder containing the xfwm4 folder in one of
 ```
 ## check 'em
 ### june
+![screenshot of the june theme. it has red strings winding along the window borders and an eye motif.](https://github.com/lainAlien/themes/assets/104214732/3cd2794a-63b8-4721-b46d-efdfafd8c913)
